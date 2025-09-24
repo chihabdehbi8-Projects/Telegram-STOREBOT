@@ -1,9 +1,6 @@
 # 📱 Telegram StoreBot  
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)  
-![License](https://img.shields.io/github/license/chihabdehbi8-Projects/STOREBOT)  
-![Last Commit](https://img.shields.io/github/last-commit/chihabdehbi8-Projects/STOREBOT)  
-![Issues](https://img.shields.io/github/issues/chihabdehbi8-Projects/STOREBOT)  
 
 A **Telegram bot** for managing and searching a phone parts store.  
 The bot allows users to check part availability, tracks all searches in **Excel reports** with charts, and includes a **whitelist system** for controlling access.  
