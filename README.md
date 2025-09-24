@@ -34,8 +34,8 @@ week-YYYY-MM-DD_to_YYYY-MM-DD.xlsx
 
 1. Clone the repository:  
  ```bash
- git clone https://github.com/chihabdehbi8-Projects/STOREBOT.git
- cd STOREBOT
+ git clone https://github.com/chihabdehbi8-Projects/Telegram-STOREBOT.git
+ cd Telegram-STOREBOT
 Create a virtual environment and install dependencies:
 python3 -m venv venv
 source venv/bin/activate   # On Linux/Mac
