@@ -23,13 +23,14 @@ The bot allows users to check part availability, tracks all searches in **Excel 
 - ✅ **Whitelist authentication**: Only approved users can use the bot.  
   - Add users via a helper script using their Telegram ID or phone number.  
   - Whitelist reloads dynamically without restarting the bot.  
-- 📂 **Organized stats**:  
+- 📂 **Organized stats**:
+```
 stats/
 daily/
 YYYY-MM-DD.xlsx
 weekly/
 week-YYYY-MM-DD_to_YYYY-MM-DD.xlsx
-
+```
 ---
 
 ## 🛠️ Installation  
